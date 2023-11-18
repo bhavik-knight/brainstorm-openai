@@ -1,4 +1,4 @@
-# OpenAI - Create ChatGPT Bot
+# Brainstorm - Open AI
 
 ## Team Members
 ---
